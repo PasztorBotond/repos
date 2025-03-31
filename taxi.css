@@ -14,7 +14,7 @@ h1{
     font-variant: small-caps;
 }
 
-.right{
+#right{
     float: right;
     height: 300px;
 }
@@ -24,4 +24,8 @@ h1{
     width: 400px;
     border: 3px solid yellow ;
     background-color: lightgray;
+}
+
+#left{
+    float: left;
 }
