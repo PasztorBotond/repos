@@ -1,8 +1,15 @@
 body{
     width: 960px;
     margin-left: auto;
+    border: 10px double;
+    border-color: gold;
 }
 
 #content{
     background-color: goldenrod;
+}
+
+h1{
+    text-align: center;
+    font-variant: small-caps;
 }
