@@ -3,6 +3,7 @@ body{
     margin: 0% 25%;
     border: 10px double;
     border-color: gold;
+    text-align: justify;
 }
 
 #content{
