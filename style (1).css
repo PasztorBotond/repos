@@ -14,7 +14,7 @@ h1{
     font-size:50px;font-weight:bolder
 }
 
-.right{
+#right{
     margin:0 0 15px 15px;border:3px solid #ff0
 }
 
@@ -26,7 +26,7 @@ body>div>*,body>div>div>*{
     padding:25px;margin:15px 15px 0 0
 }
 
-.left{
+#left{
     float:left;margin-right:10px
 }
 
